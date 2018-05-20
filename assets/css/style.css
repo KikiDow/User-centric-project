@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy:100,200,300,400,500,600,700|Shadows+Into+Light+Two:100,200,300,400,500,600,700');
+
+/*------------------------------------------------------------------Colours--*/
+
+.bg-colour-bandname {
+    background-color: #f90f1b;
+}
+
+.ul-menu-colour-band {
+    background-color: #0078ff;
+}
+
+.ul-menu-colour-sounds {
+    background-color: #f4a42a;
+}
+
+.ul-menu-colour-flicks {
+    background-color: #0bae3f;
+}
+
+.ul-menu-colour-contact {
+    background-color: #48d8cd;
+}
+
+/*-------------------------------------------------------------------Spacing--*/
+
+h5 {
+    margin: 0;
+    font-family: "Luckiest Guy", sans-serif;
+    font-weight: 300;
+    padding-top: 10px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+/*-------------------------------------------------------------------Heading--*/
+
+header {
+    margin: 0;
+}
+
+.heading {
+    margin-left: 50px;
+}
+
+
+.logo {
+    background: url("../images/cover3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    display: block;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.bandname {
+    font-family: "Luckiest Guy", sans-serif;
+    font-weight: 100;
+    font-size: 56px;
+    margin-top: 50px;
+    color: #ffffff;
+    text-align: center; 
+}
+
+.banddescription {
+    font-family: "Shadows Into Light Two", sans-serif;
+    font-weight: 200;
+    font-size: 38px;
+    margin-top: 20px;
+    margin-bottom: 70px;
+    color: #ffffff;
+    text-align: center;
+}
+
+#nav {
+    margin: 0;
+}
+
+#nav li {
+    padding: 0;
+}
+
+.menuitem {
+    height: 120px;
+    text-align: center;
+    padding: 0;
+}
+
+.menuitem a {
+    width: 100%;
+    text-decoration: none;
+    color: #ffffff;
+    height: 120px;
+}
+
+.menuitem a i {
+    padding-top: 22px;
+    display: block;
+    color: #ffffff;
+    font-size: 26px;
+}
+
+.menuitem span {
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    text-align: center;
+    font-family: "Luckiest Guy", sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+/*-----------------------------------------------------------------Hover.css--*/
+
+.hvr-sweep-to-bottom:before {
+    background: #f90f1b;
+    height: 120px;
+}
+
+/*-------------------------------------------------------------------Footer--*/
+
+footer {
+    background-color: #f90f1b;
+    color: #ffffff;
+    min-height: 120px;
+    margin: 0;
+}
+
+.footer-text {
+    font-family: "Shadows Into Light Two", sans-serif;
+    font-weight: 200;
+    padding-top: 5px;
+}
+
+.social-links {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width: 40px;
+    height: 40px;
+    padding: 15px 0;
+    border-radius: 50%;
+    font-size: 20px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #f4a42a;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #0078ff;
+}
