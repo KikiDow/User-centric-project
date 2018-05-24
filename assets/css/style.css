@@ -24,7 +24,7 @@
 
 /*-------------------------------------------------------------------Spacing--*/
 
-h5 {
+h4 {
     margin: 0;
     font-family: "Luckiest Guy", sans-serif;
     font-weight: 300;
@@ -33,6 +33,10 @@ h5 {
 
 .inline-block {
     display: inline-block;
+}
+
+.main-section {
+    min-height: 450px;
 }
 
 /*-------------------------------------------------------------------Heading--*/
@@ -51,7 +55,7 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 360px;
+    min-height: 362px;
     display: block;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
@@ -134,7 +138,7 @@ footer {
 
 .footer-text {
     font-family: "Shadows Into Light Two", sans-serif;
-    font-weight: 200;
+    font-weight: 300;
     padding-top: 5px;
 }
 
@@ -162,3 +166,67 @@ footer {
 .social-links li a i:hover {
     background: #0078ff;
 }
+
+/*---------------------------------------------------Section - Upcoming Gigs--*/
+
+.upcoming-gigs {
+    margin: 0;
+    font-family: "Luckiest Guy", sans-serif;
+    color: #fafafa;
+    font-weight: 300;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.upcoming-gigs-table {
+    text-align: center;
+    font-family: "Shadows Into Light Two", sans-serif;
+    font-weight: 300;
+    color: #fafafa;
+    padding-top: 15px;
+    margin-bottom: 25px;
+    width: 100%;
+    /*min-height: 260px;*/
+    min-height: 369px;
+}
+
+.upcoming-gigs-table th {
+    text-align: center;
+    font-family: "Luckiest Guy", sans-serif;
+    font-weight: 400;
+    color: #f4a42a;
+}
+
+.upcoming-gigs-table th, td {
+     padding-top: 10px;
+}
+
+/*------------------------------------------------------------Section - Main--*/
+
+.main-background {
+    background: url("../images/monkees.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*min-height: 341px;*/
+    min-height: 450px;
+    display: block;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+section {
+    margin: 0;
+}
+
+.bandtitle {
+    font-family: "Luckiest Guy", sans-serif;
+    text-align: center;
+    font-weight: 300;
+    text-align: center;
+    padding-top: 15px;
+    color: #f90f1b;
+}
+/*------------------------------------------------------------Media Queries---*/
