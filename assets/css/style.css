@@ -3,7 +3,10 @@
 /*------------------------------------------------------------------Colours--*/
 
 .bg-colour-bandname {
-    background-color: #f90f1b;
+    /*background-color: #f90f1b;*/
+    /*background-color: #8b0000;*/
+    background-color: #9f0000;
+    /*background-color: #d32828;*/
 }
 
 .ul-menu-colour-band {
@@ -123,14 +126,14 @@ header {
 /*-----------------------------------------------------------------Hover.css--*/
 
 .hvr-sweep-to-bottom:before {
-    background: #f90f1b;
+    background: #9f0000;
     height: 120px;
 }
 
 /*-------------------------------------------------------------------Footer--*/
 
 footer {
-    background-color: #f90f1b;
+    background-color: #9f0000;
     color: #ffffff;
     min-height: 120px;
     margin: 0;
@@ -225,8 +228,77 @@ section {
     font-family: "Luckiest Guy", sans-serif;
     text-align: center;
     font-weight: 300;
-    text-align: center;
     padding-top: 15px;
-    color: #f90f1b;
+    /*padding-bottom: 25px;*/
+    padding-bottom: 15px;
+    color: #9f0000;
+}
+
+.form-cover {
+    font-family: "Luckiest Guy", sans-serif;
+    text-align: center;
+    font-weight: 300;
+    /*color: #f90f1b;*/
+    /*color: #ffffff;*/
+    color: #fafafa;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+.content-message {
+    margin: 0 auto;
+    background-color: #e1e1e1;
+    color: #000000;
+    font-family: "Shadows Into Light Two", sans-serif;
+    text-align: center;
+    max-width: 50%;
+}
+
+.content-message-band {
+     margin: 0 auto;
+    background-color: #e1e1e1;
+    color: #000000;
+    font-family: "Shadows Into Light Two", sans-serif;
+    text-align: center;
+    max-width: 95%;
+    margin-bottom: 15px;
+    font-weight: 300;
+}
+
+button[type="submit"]{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background-color: #9f0000;
+    color: #fafafa;
+    font-family: "Luckiest Guy", sans-serif;
+}
+/*------------------------------------------------------------Image Gallery---*/
+
+.gallery {
+    /*margin-left: 15px;
+    margin-top: 10px;*/
+    margin: 10 auto;
+    /*border: 1px solid #ccc;*/
+    /*float: left;
+    width: 200px;
+    height: 200px;*/
+    
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.gallery-description {
+    padding: 15px;
+    text-align: center;
+    background-color: #ffffff;
+    color: #000000;
+    font-family: "Shadows Into Light Two", sans-serif;
 }
 /*------------------------------------------------------------Media Queries---*/
