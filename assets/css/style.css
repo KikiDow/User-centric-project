@@ -279,6 +279,7 @@ video {
     max-width: 95%;
     margin-bottom: 15px;
     font-weight: 300;
+    font-size: x-large;
 }
 
 button[type="submit"]{
@@ -313,7 +314,27 @@ button[type="submit"]{
     color: #000000;
     font-family: "Shadows Into Light Two", sans-serif;
 }
+
+.records {
+    padding-bottom: 10px;
+}
+
+.records-center {
+    margin: 0 auto;
+}
 /*------------------------------------------------------------Media Queries---*/
+
+@media(min-width: 992px) {
+    .section-column {
+        /*padding:0 30px 30px;*/
+        float: none;
+        display: table-cell;
+    }
+/*------------------------------------------------------------Test Section for New Upcoming Gigs---*/
+
+.row-table {
+    display: table;
+}
 
 /*------------------------------------------------------------Music player----*/
 
