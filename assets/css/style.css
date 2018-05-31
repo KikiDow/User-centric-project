@@ -271,7 +271,7 @@ video {
 }
 
 .content-message-band {
-     margin: 0 auto;
+    margin: 0 auto;
     background-color: #e1e1e1;
     color: #000000;
     font-family: "Shadows Into Light Two", sans-serif;
@@ -314,3 +314,23 @@ button[type="submit"]{
     font-family: "Shadows Into Light Two", sans-serif;
 }
 /*------------------------------------------------------------Media Queries---*/
+
+/*------------------------------------------------------------Music player----*/
+
+.music-table-div {
+    margin: 0 auto;
+    padding-top: 15px;
+}
+
+.music-table {
+    margin: 0 auto;
+    font-family: "Luckiest Guy", sans-serif;
+    font-weight: 300;
+    background-color: #9f0000;
+    color: #e1e1e1;
+}
+
+.music-table td {
+     padding: 2px 4px 2px;
+     font-size: medium;
+}
