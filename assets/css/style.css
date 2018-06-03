@@ -279,7 +279,7 @@ video {
     max-width: 95%;
     margin-bottom: 15px;
     font-weight: 300;
-    font-size: x-large;
+    font-size: medium;
 }
 
 button[type="submit"]{
@@ -321,6 +321,14 @@ button[type="submit"]{
 
 .records-center {
     margin: 0 auto;
+}
+
+.history-link {
+    padding-top: 10px;
+}
+
+.history-link img {
+    width: 100%;
 }
 /*------------------------------------------------------------Media Queries---*/
 
