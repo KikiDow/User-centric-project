@@ -4,6 +4,10 @@ This five page frontend web application was developed as part completion of the
 Code Institute Full Stack Developer course. It is the milestone project for the 
 User Centric Frontend Development stream.
 
+########## Application Description #############################################
+The application attempts to follow the project brief and requirements. It presents
+a sample online presence for a 1960's style rock band. It is developed using HTML, CSS.
+
 ########## Files Included ######################################################
 index.html
 history.html
@@ -48,3 +52,7 @@ https://www.w3schools.com/html/html5_audio.asp
 7 - The structure of the contact form element used in contact.html was influenced
 by same design used in the "Putting It All Together | Mini Project" module of the
 User Centric Frontend Development stream.
+
+########## Resources ###########################################################
+The application uses the resources provided by the Code Institute team for the 
+project.
