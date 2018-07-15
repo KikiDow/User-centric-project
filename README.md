@@ -8,6 +8,9 @@ User Centric Frontend Development stream.
 The application attempts to follow the project brief and requirements. It presents
 a sample online presence for a 1960's style rock band. It is developed using HTML, CSS.
 
+########## GitHub Repository ###################################################
+https://github.com/KikiDow/User-centric-project
+
 ########## Files Included ######################################################
 index.html
 history.html

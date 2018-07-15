@@ -237,10 +237,18 @@ section {
     text-align: center;
     font-weight: 300;
     padding-top: 15px;
-    /*padding-bottom: 25px;*/
     padding-bottom: 15px;
     color: #9f0000;
+   
 }
+
+
+.bandtitle span {
+    background-color: #ffffff;
+    opacity: 0.7;
+    padding: 5px;
+}
+
 
 .form-cover {
     font-family: "Luckiest Guy", sans-serif;
@@ -266,13 +274,17 @@ video {
     margin: 0 auto;
     height: auto;
     max-width: 100%;
+    padding-top: 5px;
     padding-bottom: 10px;
 }
 
 .content-message {
     margin: 0 auto;
-    background-color: #e1e1e1;
-    color: #000000;
+    background-color: #000000;
+    color: #ffffff;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    opacity: 0.8;
     font-family: "Shadows Into Light Two", sans-serif;
     text-align: center;
     max-width: 50%;
@@ -280,8 +292,11 @@ video {
 
 .content-message-band {
     margin: 0 auto;
-    background-color: #e1e1e1;
-    color: #000000;
+    background-color: #000000;
+    color: #ffffff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    opacity: 0.8;
     font-family: "Shadows Into Light Two", sans-serif;
     text-align: center;
     max-width: 95%;
@@ -318,8 +333,11 @@ button[type="submit"]{
 .gallery-description {
     padding: 15px;
     text-align: center;
-    background-color: #ffffff;
-    color: #000000;
+    /*background-color: #ffffff;
+    color: #000000;*/
+    background-color: #000000;
+    color: #ffffff;
+    opacity: 0.8;
     font-family: "Shadows Into Light Two", sans-serif;
 }
 
@@ -346,6 +364,7 @@ button[type="submit"]{
         float: none;
         display: table-cell;
     }
+}
 /*------------------------------------------------------------Test Section for New Upcoming Gigs---*/
 
 .row-table {
