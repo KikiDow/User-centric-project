@@ -1,5 +1,4 @@
-# H1 WEBSITE FOR A BAND
-___
+# WEBSITE FOR A BAND
 This five page frontend web application was developed as part completion of the 
 Code Institute Full Stack Developer course. It is the milestone project for the 
 User Centric Frontend Development stream. The application attempts to follow the
@@ -8,8 +7,7 @@ style rock band. It showcases the band's history, upcoming events/gigs, songs,
 video and a contact form.
 
 
-# H2 UX
-___
+## UX
 1. The application has attempted to meet all the requirements laid out in the 
 assignment outline and design brief. No additional features were added outside of
 the design brief.
@@ -31,21 +29,17 @@ https://www.w3schools.com/html/html5_audio.asp
 by same design used in the "Putting It All Together | Mini Project" module of the
 User Centric Frontend Development stream.
 
-# H2 GitHub Repository 
-___
+## GitHub Repository 
 [GitHUb repository for the project](https://github.com/KikiDow/User-centric-project)
 
-# H2 Features
-___
+## Features
 
 
-# H2 Technologies Used:
-___
+## Technologies Used:
 - HTML
 - CSS
 
-# H2 Files Included
-___
+## Files Included
 - index.html
 - history.html
 - sounds.html
@@ -68,23 +62,23 @@ ___
 - SteppingStone.mp3
 - TheMonkees.mp4
 
-# H2 Testing
-___
+## Testing
 
-# H2 Deployment
-___
 
-# H2 Credits
-___
-# H3 Content
+## Deployment
+
+
+## Credits
+
+### Content
 * The textual content of the site is paraphrased from the following page on wikipedia
 about ["The Monkees"](https://en.wikipedia.org/wiki/The_Monkees)
 
 
-# H3 Media
+### Media
 * The application uses the media resources provided by the Code Institute team 
 for the project.
 
-# H3 Acknowledgements
+### Acknowledgements
 * The application uses the resources provided by the Code Institute team for the 
 project.
