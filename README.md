@@ -11,21 +11,14 @@ video and a contact form.
 1. The application has attempted to meet all the requirements laid out in the 
 assignment outline and design brief. No additional features were added outside of
 the design brief.
-2. The developer decided to use the resources provided in the GitHUb repo located at 
-https://github.com/Code-Institute-Org/project-assets
-This decision was made to save time researching similar resources.
+2. The developer decided to use the resources provided in the directed GitHub Repository 
+in the assignment outline. This decision was made to save time researching similar resources.
 3. The colour scheme was chosen to reflect the fun 1960's psychedelic style and vibe
 that was associated with the original "The Monkees" band.
 4. The structure of the header and footer elements for the project was heavily 
 influenced by the header developed in the "Putting It All Together | Mini Project" 
 module of the User Centric Frontend Development stream.
-5. The structure of the image gallery used in index.html was heavily influenced 
-by a design portrayed by w3schools.com located at 
-https://www.w3schools.com/css/css_image_gallery.asp
-6. The structure of the mp3 track player used in sounds.html was heavily influenced
-by a design portrayed by w3schools.com located at 
-https://www.w3schools.com/html/html5_audio.asp
-7. The structure of the contact form element used in contact.html was influenced
+5. The structure of the contact form element used in contact.html was influenced
 by same design used in the "Putting It All Together | Mini Project" module of the
 User Centric Frontend Development stream.
 
@@ -76,9 +69,15 @@ about ["The Monkees"](https://en.wikipedia.org/wiki/The_Monkees)
 
 
 ### Media
-* The application uses the media resources provided by the Code Institute team 
-for the project.
+* The application uses the resources provided by the Code Institute team for the 
+project located in the following [GitHub Repository](https://github.com/Code-Institute-Org/project-assets).
 
 ### Acknowledgements
-* The application uses the resources provided by the Code Institute team for the 
-project.
+* The structure of the image gallery used in index.html was heavily influenced 
+by a design portrayed by w3schools.com located at [this page](https://www.w3schools.com/css/css_image_gallery.asp)
+* The structure of the mp3 track player used in sounds.html was heavily influenced
+by a design portrayed by w3schools.com located at [this page](https://www.w3schools.com/html/html5_audio.asp)
+
+
+
+
