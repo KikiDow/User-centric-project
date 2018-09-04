@@ -26,7 +26,23 @@ User Centric Frontend Development stream.
 [GitHUb repository for the project](https://github.com/KikiDow/User-centric-project)
 
 ## Features
-
+* Navigation Bar: The application contains a navigation bar that allows the user to 
+navigate through the site from any page on the site. The developer decided to use 
+1960s' slang terms to label each page/section of the site. A "hover" animation is used#
+to highlight the selected option.
+* SideBar: The application contains a sidebar that outlines the bands upcoming live
+performances.
+* Footer: The application contains a footer that provides basic information on the band
+and provides links to the bands fictitious facebook, twitter and instagram accounts using 
+fontawesome icons.
+* The index.html file/page contains photographs of the band, which upon clicked, open a separate
+browser tab to show a larger version of the same image.
+* The sounds.html file/page contains embedded mp3 music files so that the user can listen to a
+a selection of the bands songs.
+* The flicks.html file/page contains one embedded mp4 video file so that the user can see the band
+perform.
+* The contact.html file/page contains a contact form that would allow the user to send messages or
+or requests to the band.
 
 ## Technologies Used:
 - HTML
@@ -56,16 +72,26 @@ User Centric Frontend Development stream.
 - TheMonkees.mp4
 
 ## Testing
-
+* As no module for testing has yet been covered on the course, no technical tests were 
+conducted on the application.
+* A form of White Box testing was conducted by the developer using potential use cases or
+user stories to ensure that each link in the application followed the intended path. This
+was also done for each feature outlined in the Features section to ensure they were working 
+as intended.
+* A form of Black Box testing was done by asking both a friend and the student's mentor
+on the course to use the application without instruction. Their feedback was then used 
+to make improvements.
 
 ## Deployment
+* The application is deployed using github pages and can be accessed by clicking 
+["here"](link)
 
 
 ## Credits
 
 ### Content
-* The textual content of the site is paraphrased from the following page on wikipedia
-about ["The Monkees"](https://en.wikipedia.org/wiki/The_Monkees)
+* The textual content of the site is paraphrased by the developer from the following page 
+on wikipedia about ["The Monkees"](https://en.wikipedia.org/wiki/The_Monkees)
 
 
 ### Media
