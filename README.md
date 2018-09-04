@@ -3,7 +3,7 @@ This five page frontend web application was developed as part completion of the
 Code Institute Full Stack Developer course. It is the milestone project for the 
 User Centric Frontend Development stream. The application attempts to follow the
 project brief and requirements. It presents a sample online presence for a 1960's
-style rock band. It showcases the band's history, upcoming events/gigs, songs, 
+style rock band. It showcases the band's history, upcoming events/gigs, photos, songs, 
 video and a contact form.
 
 
@@ -26,22 +26,22 @@ User Centric Frontend Development stream.
 [GitHUb repository for the project](https://github.com/KikiDow/User-centric-project)
 
 ## Features
-* Navigation Bar: The application contains a navigation bar that allows the user to 
+* **Navigation Bar:** The application contains a navigation bar that allows the user to 
 navigate through the site from any page on the site. The developer decided to use 
 1960s' slang terms to label each page/section of the site. A "hover" animation is used#
 to highlight the selected option.
-* SideBar: The application contains a sidebar that outlines the bands upcoming live
+* **SideBar:** The application contains a sidebar that outlines the bands upcoming live
 performances.
-* Footer: The application contains a footer that provides basic information on the band
+* **Footer:** The application contains a footer that provides basic information on the band
 and provides links to the bands fictitious facebook, twitter and instagram accounts using 
 fontawesome icons.
-* The index.html file/page contains photographs of the band, which upon clicked, open a separate
+* The index.html file/page contains **photographs of the band**, which upon clicked, open a separate
 browser tab to show a larger version of the same image.
-* The sounds.html file/page contains embedded mp3 music files so that the user can listen to a
+* The sounds.html file/page contains **embedded mp3 music files** so that the user can listen to a
 a selection of the bands songs.
-* The flicks.html file/page contains one embedded mp4 video file so that the user can see the band
+* The flicks.html file/page contains one **embedded mp4 video file** so that the user can see the band
 perform.
-* The contact.html file/page contains a contact form that would allow the user to send messages or
+* The contact.html file/page contains a **contact form** that would allow the user to send messages or
 or requests to the band.
 
 ## Technologies Used:
