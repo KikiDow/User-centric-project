@@ -97,8 +97,7 @@ This project is deployed using GitHub pages. It was deployed as follows:
 3. From the source option, select the "Master Branch" and "save". For an app to deploy successfully on gh pages, the home page must be titled "index.html".
 
 * The Github repository for the project/application can be found [here](https://github.com/KikiDow/User-centric-project)
-* The application is deployed using github pages and can be accessed by clicking 
-["here"](link)
+* The application is deployed using github pages and can be accessed by clicking ["here"](link)
 
 
 ## Credits
