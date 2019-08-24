@@ -7,7 +7,7 @@ style rock band. It showcases the band's history, upcoming events/gigs, photos, 
 video and a contact form.
 
 ## DEMO
-* A live demo hosted on Heroku can be found ["here"](link)
+* A live demo hosted on Heroku can be found ["here"](https://kikidow.github.io/User-centric-project/)
 
 ## UX
 1. The application has attempted to meet all the requirements laid out in the 
@@ -23,9 +23,6 @@ module of the User Centric Frontend Development stream.
 5. The structure of the contact form element used in contact.html was influenced
 by same design used in the "Putting It All Together | Mini Project" module of the
 User Centric Frontend Development stream.
-
-## GitHub Repository 
-[GitHUb repository for the project](https://github.com/KikiDow/User-centric-project)
 
 ## Features
 * **Navigation Bar:** The application contains a navigation bar that allows the user to 
@@ -97,7 +94,7 @@ This project is deployed using GitHub pages. It was deployed as follows:
 3. From the source option, select the "Master Branch" and "save". For an app to deploy successfully on gh pages, the home page must be titled "index.html".
 
 * The Github repository for the project/application can be found [here](https://github.com/KikiDow/User-centric-project)
-* The application is deployed using github pages and can be accessed by clicking ["here"](link)
+* The application is deployed using github pages and can be accessed by clicking ["here"](https://kikidow.github.io/User-centric-project/)
 
 
 ## Credits
