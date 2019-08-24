@@ -6,6 +6,8 @@ project brief and requirements. It presents a sample online presence for a 1960'
 style rock band. It showcases the band's history, upcoming events/gigs, photos, songs, 
 video and a contact form.
 
+## DEMO
+* A live demo hosted on Heroku can be found ["here"](link)
 
 ## UX
 1. The application has attempted to meet all the requirements laid out in the 
@@ -43,6 +45,12 @@ a selection of the bands songs.
 perform.
 * The contact.html file/page contains a **contact form** that would allow the user to send messages or
 or requests to the band.
+
+## Features To Implement
+* An ecommerce feature/app to allow users buy tickets for upcoming concerts. This feature could also be used to allow the band sell merchandise to it's fans.
+* A blog feature to allow both fans and members of the band share stories, articles, etc. This feature could also allow fans to comment and upvote on 
+other contributions.
+* I would like to have made the "Upcoming Gigs" section more dynamic, interactive or visually appealing using either a carousel or collapsible feature.
 
 ## Technologies Used:
 - HTML
@@ -83,6 +91,12 @@ on the course to use the application without instruction. Their feedback was the
 to make improvements.
 
 ## Deployment
+This project is deployed using GitHub pages. It was deployed as follows:
+1. In the GitHub repository of the project, select the settings menu. 
+2. Scroll down to the gh-pahes section.
+3. From the source option, select the "Master Branch" and "save". For an app to deploy successfully on gh pages, the home page must be titled "index.html".
+
+* The Github repository for the project/application can be found [here](https://github.com/KikiDow/User-centric-project)
 * The application is deployed using github pages and can be accessed by clicking 
 ["here"](link)
 
